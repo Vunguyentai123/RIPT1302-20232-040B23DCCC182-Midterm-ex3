@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+}
+  
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);  
+    border: 2px solid rebeccapurple;
+}
+  
+h1 {
+    text-align: center;
+}  
+  
+#personal-info,
+#education,
+#experience,
+#skills,
+#links {
+    margin-bottom: 20px;
+    border: 2px; 
+    border: 1px solid rebeccapurple;
+    padding: 10px;
+}
+  
+#personal-info h2,
+#education h2,
+#experience h2,
+#skills h2,
+#links h2 {
+    margin-bottom: 10px;
+}
+  
